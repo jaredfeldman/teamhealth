@@ -12,3 +12,12 @@ The survey is worded in a way that emphasizes the characteristics of a Generativ
 The following table compares the three types of organization cultures outlined in Ron Westrum's research:
 
 ![image](https://user-images.githubusercontent.com/13422845/146694898-b04e40a4-9267-4a61-ad7a-3980cc65da6a.png)
+
+When reading the results, the following numbers correspond with the associated response:
+- 1 = Strongly Disagree
+- 2 = Disagree
+- 3 = Slightly Disagree
+- 4 = Neither Agree nor Disagree
+- 5 = Slightly Agree
+- 6 = Agree
+- 7 = Strongly Agree

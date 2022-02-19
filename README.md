@@ -13,7 +13,7 @@ The following table compares the three types of organization cultures outlined i
 
 ![image](https://user-images.githubusercontent.com/13422845/146694898-b04e40a4-9267-4a61-ad7a-3980cc65da6a.png)
 
-The results can be found at the bottom of the [Jupyter Notebook](https://github.com/jaredfeldman/teamhealth/blob/main/TeamHealthNotebook.ipynb) in this repository.
+The results can be found at the bottom of the [Jupyter Notebook](https://github.com/jaredfeldman/teamhealth/blob/main/TeamHealthNotebook_v2.ipynb) in this repository.
 
 When reading the results, the following numbers correspond with the associated response:
 - 1 = Strongly Disagree
